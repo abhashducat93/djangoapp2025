@@ -4,4 +4,3 @@ django-widget-tweaks==1.5.0
 django-crispy-forms==2.1
 Pillow==10.1.0
 psycopg2-binary==2.9.9  # For PostgreSQL (optional)
-py==8.0
